@@ -5,7 +5,7 @@ import * as mutations from './mutations'
 
 
 const journalModule = {
-    nameSpaced: true,
+    namespaced: true,
     actions,
     getters,
     mutations,
